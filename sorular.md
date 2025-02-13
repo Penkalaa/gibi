@@ -147,3 +147,34 @@
 
 ### 40. Yılmaz ve İlkkan, hangi sporu bilmedikleri halde iddialı olup kaybetmiştir?  
 **Cevap:** Curling  
+
+
+### 41. Yılmaz ve İlkkan, hangi resmi kuruma yanlışlıkla dilekçe vermiştir?  
+**Cevap:** Meteoroloji Genel Müdürlüğü  
+
+### 42. İlkkan, hangi sebepten dolayı site WhatsApp grubundan atılmıştır?  
+**Cevap:** Gereksiz uzun sesli mesajlar göndermesi  
+
+### 43. Yılmaz ve İlkkan, hangi mekanın açılışına yanlışlıkla gitmiştir?  
+**Cevap:** Bir diş kliniği  
+
+### 44. Yılmaz, sosyal medyada hangi konuyla ilgili uzmanmış gibi konuşurken yakalanmıştır?  
+**Cevap:** Finans yatırımları  
+
+### 45. İlkkan, hangi sebepten dolayı yanlışlıkla bir belediye başkan adayı zannedilmiştir?  
+**Cevap:** Bir etkinlikte sahneye çıkıp teşekkür konuşması yapması  
+
+### 46. Yılmaz ve İlkkan, hangi sebepten dolayı kafeden atılmıştır?  
+**Cevap:** Menüde olmayan bir şey istemeleri ve ısrar etmeleri  
+
+### 47. Yılmaz, hangi bahane ile düğünde sahneye çıkıp konuşma yapmıştır?  
+**Cevap:** Çiftin çok eski bir arkadaşı olduğunu iddia ederek  
+
+### 48. İlkkan, hangi yanlış anlaşılma sonucu mahallede dedikodu konusu olmuştur?  
+**Cevap:** Küçük bir çocuğa yanlışlıkla "borç veririm" demesi  
+
+### 49. Yılmaz ve İlkkan, hangi yiyeceğin içeriği konusunda uzun süren bir tartışmaya girmiştir?  
+**Cevap:** Lahmacun  
+
+### 50. İlkkan, hangi sıradışı hediye nedeniyle sevgilisi tarafından terk edilmiştir?  
+**Cevap:** Antika bir radyo  

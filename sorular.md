@@ -117,3 +117,33 @@
 
 ### 30. Yılmaz ve İlkkan bir spor salonuna kayıt olup ne kadar sürede vazgeçmiştir?  
 **Cevap:** 2 gün  
+
+### 31. Yılmaz ve İlkkan, hangi alanda uzmanmış gibi davranıp rezil olmuştur?  
+**Cevap:** Satranç  
+
+### 32. İlkkan’ın sadece bir gün boyunca sahip olduğu ilginç evcil hayvan nedir?  
+**Cevap:** Kaplumbağa  
+
+### 33. Yılmaz ve İlkkan’ın yanlış anlaşılma sonucu üyesi oldukları topluluk nedir?  
+**Cevap:** Halk oyunları ekibi  
+
+### 34. Yılmaz, yanlışlıkla hangi toplu ulaşım aracında mahsur kalmıştır?  
+**Cevap:** Teleferik  
+
+### 35. İlkkan, kendini yetkili sanıp hangi yasal belgeyi sahte olarak düzenlemeye kalkmıştır?  
+**Cevap:** Tapu senedi  
+
+### 36. Yılmaz ve İlkkan, bir markette hangi ürün nedeniyle kavga etmiştir?  
+**Cevap:** Yoğurt  
+
+### 37. Yılmaz, kendini tanıtmak için hangi gereksiz ve komik detayı kullanmıştır?  
+**Cevap:** Doğum gününü aynı yıl içinde üç farklı gün kutlaması  
+
+### 38. Yılmaz ve İlkkan, bir otobüs yolculuğu sırasında hangi yanlış eşyayı alıp götürmüştür?  
+**Cevap:** Yaşlı bir adamın bastonu  
+
+### 39. İlkkan’ın mahallede büyük tartışmaya yol açan aktivitesi nedir?  
+**Cevap:** Kuşları yanlış yemle beslemesi  
+
+### 40. Yılmaz ve İlkkan, hangi sporu bilmedikleri halde iddialı olup kaybetmiştir?  
+**Cevap:** Curling  

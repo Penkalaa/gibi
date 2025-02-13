@@ -57,3 +57,33 @@
 
 ### 10. Yılmaz ve İlkkan, bir akrabalarına yardım etmek için hangi meslek grubuna aitmiş gibi davranmıştır?  
 **Cevap:** Psikolog  
+
+### 11. Yılmaz ve İlkkan’ın bir kadının yanında gereksiz yere kavga ettikleri yer neresidir?  
+**Cevap:** Otobüs durağı  
+
+### 12. Yılmaz ve İlkkan hangi eski teknolojik cihazı kullanarak büyük bir hata yapmıştır?  
+**Cevap:** Faks makinesi  
+
+### 13. Yılmaz ve İlkkan, bir yarışmaya katılmak için hangi garip yeteneği sergilemeye çalışmıştır?  
+**Cevap:** Senkronize yüzme  
+
+### 14. İlkkan’ın sevgilisiyle yaşadığı en büyük problem neydi?  
+**Cevap:** Sürekli “bir şey yok” diyerek kavga başlatması  
+
+### 15. Yılmaz ve İlkkan’ın en gereksiz yere uzun süre tartıştıkları konu nedir?  
+**Cevap:** Yolda gördükleri tabelanın rengi  
+
+### 16. Yılmaz, apartmandaki hangi sorunu çözmeye çalışırken daha büyük bir sorun yaratmıştır?  
+**Cevap:** Su sızıntısı  
+
+### 17. İlkkan’ın internetten sipariş edip hiç beklemediği şekilde gelen eşya nedir?  
+**Cevap:** Gitar kutusu  
+
+### 18. Yılmaz ve İlkkan bir markette hangi olaydan dolayı tartışmıştır?  
+**Cevap:** Alınan poşet sayısı  
+
+### 19. Yılmaz ve İlkkan bir restoranda ne yüzünden mekândan atılmıştır?  
+**Cevap:** Çatal-bıçak kullanım şekilleri  
+
+### 20. Yılmaz ve İlkkan hangi spor dalında iddialı olduklarını sanırken rezil olmuşlardır?  
+**Cevap:** Bowling  

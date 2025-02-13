@@ -87,3 +87,33 @@
 
 ### 20. Yılmaz ve İlkkan hangi spor dalında iddialı olduklarını sanırken rezil olmuşlardır?  
 **Cevap:** Bowling  
+
+### 21. Yılmaz ve İlkkan, hangi oyunu oynarken birbirine girmiştir?  
+**Cevap:** Tavla  
+
+### 22. İlkkan’ın yanlışlıkla davet edildiği ve rezil olduğu etkinlik nedir?  
+**Cevap:** Edebiyat söyleşisi  
+
+### 23. Yılmaz ve İlkkan’ın sosyal medyada popüler olmak için çektiği başarısız içerik nedir?  
+**Cevap:** Yemek tarifi videosu  
+
+### 24. Yılmaz’ın eski sevgilisiyle barışmak için yaptığı ama ters tepen hamle nedir?  
+**Cevap:** Şiir yazması  
+
+### 25. Yılmaz ve İlkkan, bir otelde yanlışlıkla hangi ünlü kişinin odasına girmiştir?  
+**Cevap:** Yerel bir haber spikeri  
+
+### 26. İlkkan hangi garip kostümü giyerek mahallede dolaşmıştır?  
+**Cevap:** Panda kostümü  
+
+### 27. Yılmaz ve İlkkan hangi meslek dalında kısa süreliğine çalışıp başarısız olmuştur?  
+**Cevap:** Çiçekçilik  
+
+### 28. Yılmaz ve İlkkan hangi klasik müzik eserini yanlışlıkla bozmaya çalışmıştır?  
+**Cevap:** Für Elise  
+
+### 29. İlkkan hangi sebze nedeniyle büyük bir tartışmaya girmiştir?  
+**Cevap:** Karnabahar  
+
+### 30. Yılmaz ve İlkkan bir spor salonuna kayıt olup ne kadar sürede vazgeçmiştir?  
+**Cevap:** 2 gün  
